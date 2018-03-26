@@ -31,7 +31,7 @@ Open Data DC's other Repos
 <ul>
 <li>Learn how to build your own visuals utilizing APIs with the <a href ="https://github.com/DCgov/opendatadc-starterkit">Open Data DC Starter Kit</a>.</li>
 <li>Find our <a href="https://github.com/DCgov/opendatadc-opendataSiteSamples">Open Data DC site samples</a> for use with ESRI's opendata site builder.</li>
-<li>Learn more about the <a href="https://github.com/DCgov/enterprise-dataset-inventory">Enterprise Dataset Inventory</a></li>
+<li>Learn more about our <a href="https://github.com/DCgov/enterprise-dataset-inventory">Enterprise Dataset Inventory</a></li>
 </ul>
 
 ***
