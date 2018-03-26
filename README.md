@@ -24,8 +24,9 @@
 </p>
 
 <!--- use this template for prefilled issues:https://eric.blog/2016/01/08/prefilling-github-issues/--->
+New to GitHub? Sign up for a free account<a href="https://github.com/join"> here</a>
 
-###New to GitHub? Sign up for a free account<a href="https://github.com/join"> here</a>
+***
 
 <ul>
 <li>Learn how to build your own visuals utilizing APIs with the <a href ="https://github.com/DCgov/opendatadc-starterkit">Open Data DC Starter Kit</a>.</li>
