@@ -1,4 +1,4 @@
-<p align="center"><img width=100% src="https://github.in.dc.gov/OCTO/requests/blob/master/media/Open-Data-Banner.png"></p>
+<p align="center"><img width=100% src="https://github.com/DCgov/opendatadc-requests/requests/blob/master/media/Open-Data-Banner.png"></p>
 
 <!---[![GitHub Issues](https://img.shields.io/github/issues/badges/shields.svg)](https://github.com/JoyOfTech/test-open-data-issues/issues)--->
 
