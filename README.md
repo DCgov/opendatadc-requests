@@ -7,15 +7,6 @@
 <p>DC realizes that data’s greatest value comes from having it freely shared to the extent possible when considering safety, privacy and security. We think we do a pretty good job of capturing information about DC’s complex urban, real-world attribution in <a href="http://opendata.dc.gov/">Open Data DC</a>. We have hundreds of datasets and web services already available; however, we know it's not all here. Our teams across DC government agencies are working together to add new data sets, keep data current and troubleshoot any problems. All with the intent to improve your experience. We invite you to share your experiences here with questions or requests.</p>
 <p>By the way, the District works on an <i>“open by default”</i> data policy. What does this mean? Learn more about this <a href="https://octo.dc.gov/node/1239971">Data Policy</a> and browse the <a href="http://opendata.dc.gov/pages/cdo-annual-report">Chief Data Officer’s Annual Report</a>. You might find more of what is planned and what already exists. Publishing new data is a careful and thoughtful process and therefore thank you for your civic participation in Open Data DC.</p>
 
-***
-<ul>
-<li>Learn how to build your own visuals utilizing APIs with the <a href ="https://github.com/DCgov/opendatadc-starterkit">Open Data DC Starter Kit</a>.</li>
-<li>Find our Open Data DC site samples in <a href="https://github.com/DCgov/opendatadc-opendataSiteSamples">ESRI's opendata site builder</a>.</li>
-<li>Contribute to the <a href="https://github.com/DCgov/enterprise-dataset-inventory">Enterprise Dataset Inventory</a></li>
-</ul>
-
-
-***
 
 <p align="center">
   <a href = "https://github.com/DCgov/opendatadc-requests/issues/new?labels=data%20request&title=Dataset%20Title%3A&milestone=Data%20Request&body=Provide+description+of+your+DC+Government+data+request.%7FInclude+links+to+DC+Gov+sites%2C+pdfs%2C+and+other+resources%3A">
@@ -35,6 +26,12 @@
 <!--- use this templated for prefilled issues:https://eric.blog/2016/01/08/prefilling-github-issues/--->
 
 ***
+
+<ul>
+<li>Learn how to build your own visuals utilizing APIs with the <a href ="https://github.com/DCgov/opendatadc-starterkit">Open Data DC Starter Kit</a>.</li>
+<li>Find our Open Data DC site samples in <a href="https://github.com/DCgov/opendatadc-opendataSiteSamples">ESRI's opendata site builder</a>.</li>
+<li>Contribute to the <a href="https://github.com/DCgov/enterprise-dataset-inventory">Enterprise Dataset Inventory</a></li>
+</ul>
 
 <h4>New to GitHub? Sign up for a free account<a href="https://github.com/join"> here</a></h4>
 <div class="col-sm-6 col-md-6">
