@@ -32,8 +32,10 @@
 </p>
 
 <!--- use this templated for prefilled issues:https://eric.blog/2016/01/08/prefilling-github-issues/--->
-<h3>New to GitHub? Sign up for a free account<a href="https://github.com/join"> here</a></h3>
-<br>
+
+***
+
+<h4>New to GitHub? Sign up for a free account<a href="https://github.com/join"> here</a></h4>
 <div class="col-sm-6 col-md-6">
         <b>Connect with Us</b><p></p>
         <img src="https://cdn1.iconfinder.com/data/icons/social-networks-15/512/Bird_tweet_tweeting_twitter_logo-32.png">
