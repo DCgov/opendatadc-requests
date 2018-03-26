@@ -26,13 +26,15 @@
 <!--- use this template for prefilled issues:https://eric.blog/2016/01/08/prefilling-github-issues/--->
 New to GitHub? Sign up for a free account<a href="https://github.com/join"> here</a>
 
-***
 
+##Open Data DC's other Repos
 <ul>
 <li>Learn how to build your own visuals utilizing APIs with the <a href ="https://github.com/DCgov/opendatadc-starterkit">Open Data DC Starter Kit</a>.</li>
 <li>Find our <a href="https://github.com/DCgov/opendatadc-opendataSiteSamples">Open Data DC site samples</a> for use with ESRI's opendata site builder.</li>
 <li>Contribute to the <a href="https://github.com/DCgov/enterprise-dataset-inventory">Enterprise Dataset Inventory</a></li>
 </ul>
+
+***
 
 <div class="col-sm-6 col-md-6">
         <b>Connect with Us</b><p></p>
