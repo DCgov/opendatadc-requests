@@ -6,7 +6,7 @@
 **This is the Public Suggestions Box...:**
 
 <p align="center">
-  <div>
+  <div align="center">
   <a href = "https://github.com/DCgov/opendatadc-requests/issues/new?labels=data%20request&title=Dataset%20Title%3A&milestone=Data%20Request&body=Provide+description+of+your+DC+Government+data+request.%7FInclude+links+to+DC+Gov+sites%2C+pdfs%2C+and+other+resources%3A">
   <img width=600 src="https://github.com/DCgov/opendatadc-requests/blob/master/media/DataRequest.png" alt="Open Data DC Requests"></a>
   <p><a href="https://github.com/DCgov/opendatadc-requests/issues/new?labels=data%20request&title=Dataset%20Title%3A&milestone=Data%20Request&body=Provide+description+of+your+DC+Government+data+request.%7FInclude+links+to+DC+Gov+sites%2C+pdfs%2C+and+other+resources%3A"> Open Data DC Requests</a></p>
