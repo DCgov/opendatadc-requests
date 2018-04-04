@@ -14,7 +14,7 @@
 </p>
   <div align="center">
   <a href = "https://github.com/DCgov/opendatadc-requests/issues/new?labels=question%20about%20data&title=Name%20of%20Existing%20Dataset%3A&milestone=Data%20Question&body=Specify+the+dataset%28s%29+in+question+with+an+Open+Data+DC+URL%3A">
-  <img width=500 src ="https://github.com/DCgov/opendatadc-requests/blob/master/media/DatasetQuestion.png" alt="Questions about Existing Data on Open Data DC"></a>
+  <img width=600 src ="https://github.com/DCgov/opendatadc-requests/blob/master/media/DatasetQuestion.png" alt="Questions about Existing Data on Open Data DC"></a>
   <p><a href="https://github.com/DCgov/opendatadc-requests/issues/new?labels=question%20about%20data&title=Name%20of%20Existing%20Dataset%3A&milestone=Data%20Question&body=Specify+the+dataset%28s%29+in+question+with+an+Open+Data+DC+URL%3A">Question about Existing data</a></p>
   </div>
 
