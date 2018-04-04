@@ -8,16 +8,17 @@
 
 <p align="center">
   <a href = "https://github.com/DCgov/opendatadc-requests/issues/new?labels=data%20request&title=Dataset%20Title%3A&milestone=Data%20Request&body=Provide+description+of+your+DC+Government+data+request.%7FInclude+links+to+DC+Gov+sites%2C+pdfs%2C+and+other+resources%3A">
-<img width=700 src="https://github.com/DCgov/opendatadc-requests/blob/master/media/DataRequest.png" ></a>
-    <a href="https://github.com/DCgov/opendatadc-requests/blob/master/media/DataRequest.png"> Open Data DC Requests</a>
+<img width=650 src="https://github.com/DCgov/opendatadc-requests/blob/master/media/DataRequest.png" ></a>
+  <p>  <a href="https://github.com/DCgov/opendatadc-requests/blob/master/media/DataRequest.png"> Open Data DC Requests</a></p>
+</p>  
   <p><a href = "https://github.com/DCgov/opendatadc-requests/issues/new?labels=question%20about%20data&title=Name%20of%20Existing%20Dataset%3A&milestone=Data%20Question&body=Specify+the+dataset%28s%29+in+question+with+an+Open+Data+DC+URL%3A"></p>
-<img width=700 src ="https://github.com/DCgov/opendatadc-requests/blob/master/media/DatasetQuestion.png">
+<img width=650 src ="https://github.com/DCgov/opendatadc-requests/blob/master/media/DatasetQuestion.png">
   </a>
   <a href = "https://github.com/DCgov/opendatadc-requests/issues/new?labels=ideas&title=Idea%3A&milestone=Ideas&body=Provide%20a%20description%20of%20your%20Open%20Data%20DC%20idea%3A">
-<img width=700 src="https://github.com/DCgov/opendatadc-requests/blob/master/media/Ideas.png">
+<img width=650 src="https://github.com/DCgov/opendatadc-requests/blob/master/media/Ideas.png">
   </a>
   <a href = "https://github.com/DCgov/opendatadc-requests/issues/new?labels=problem%3A%20site%20bug&title=Site%20Issue%3A&milestone=Site%20Bug&body=Please%20provide%20URL%20and%20description%20of%20site%20issue%3A">
-<img width=700 src ="https://github.com/DCgov/opendatadc-requests/blob/master/media/SiteBug.png">
+<img width=650 src ="https://github.com/DCgov/opendatadc-requests/blob/master/media/SiteBug.png">
   </a>
 </p>
 
