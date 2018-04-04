@@ -6,12 +6,12 @@
 **This is the Public Suggestions Box...:**
 
 <p align="center">
-
+  <div>
   <a href = "https://github.com/DCgov/opendatadc-requests/issues/new?labels=data%20request&title=Dataset%20Title%3A&milestone=Data%20Request&body=Provide+description+of+your+DC+Government+data+request.%7FInclude+links+to+DC+Gov+sites%2C+pdfs%2C+and+other+resources%3A">
   <img width=650 src="https://github.com/DCgov/opendatadc-requests/blob/master/media/DataRequest.png" alt="Open Data DC Requests"></a>
   <p><a href="https://github.com/DCgov/opendatadc-requests/issues/new?labels=data%20request&title=Dataset%20Title%3A&milestone=Data%20Request&body=Provide+description+of+your+DC+Government+data+request.%7FInclude+links+to+DC+Gov+sites%2C+pdfs%2C+and+other+resources%3A"> Open Data DC Requests</a></p>
-</p></p>
-
+</p>
+</div>
   <a href = "https://github.com/DCgov/opendatadc-requests/issues/new?labels=question%20about%20data&title=Name%20of%20Existing%20Dataset%3A&milestone=Data%20Question&body=Specify+the+dataset%28s%29+in+question+with+an+Open+Data+DC+URL%3A">
 <img width=650 src ="https://github.com/DCgov/opendatadc-requests/blob/master/media/DatasetQuestion.png" alt="Questions about Existing Data on Open Data DC">
   <p><a href="https://github.com/DCgov/opendatadc-requests/blob/master/media/DataRequest.png"></a></p>
