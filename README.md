@@ -14,7 +14,7 @@
 </p>
   <div align="center">
   <a href = "https://github.com/DCgov/opendatadc-requests/issues/new?labels=question%20about%20data&title=Name%20of%20Existing%20Dataset%3A&milestone=Data%20Question&body=Specify+the+dataset%28s%29+in+question+with+an+Open+Data+DC+URL%3A">
-  <img width=600 src ="https://github.com/DCgov/opendatadc-requests/blob/master/media/DatasetQuestion.png" alt="Questions about Existing Data on Open Data DC"></a>
+  <img width=500 src ="https://github.com/DCgov/opendatadc-requests/blob/master/media/DatasetQuestion.png" alt="Questions about Existing Data on Open Data DC"></a>
   <p><a href="https://github.com/DCgov/opendatadc-requests/issues/new?labels=question%20about%20data&title=Name%20of%20Existing%20Dataset%3A&milestone=Data%20Question&body=Specify+the+dataset%28s%29+in+question+with+an+Open+Data+DC+URL%3A">Question about Existing data</a></p>
   </div>
 
@@ -30,7 +30,7 @@
   <p><a href = "https://github.com/DCgov/opendatadc-requests/issues/new?labels=problem%3A%20site%20bug&title=Site%20Issue%3A&milestone=Site%20Bug&body=Please%20provide%20URL%20and%20description%20of%20site%20issue%3A">Report Site Bugs</a></p>
   </div>
 </p>
-
+<br>
 <!--- use this template for prefilled issues:https://eric.blog/2016/01/08/prefilling-github-issues/--->
 New to GitHub? Sign up for a free account<a href="https://github.com/join"> here</a>
 
