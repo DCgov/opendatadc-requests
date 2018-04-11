@@ -3,7 +3,7 @@
 
 <h2> Welcome to the Open Data DC Requests and Contributions Repo!</h2>
 
-**This is the Public Suggestions Box...:**
+**We think we do a pretty good job of capturing information about DC’s complex urban, real-world attribution in Open Data DC: however, we know it's not all here. Help improve yours and everyone’s experience by sharing questions, requests and even grumblings. We also accept accolades! Let’s discuss…**
 
 <p align="center">
   <div align="center">
