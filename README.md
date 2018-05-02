@@ -2,7 +2,7 @@
     <p align="center">
         <a href="https://github.com/DCgov/opendatadc-requests/issues/new?template=innomaytion.md&title=Rogue%20Data%20%27Bounty%27%20Submission">
             <img width=500
-                 src="https://github.com/DCgov/opendatadc-requests/blob/master/media/Open-Data-RogueDataRed.png"></a>
+                 src="https://github.com/DCgov/opendatadc-requests/blob/master/media/OpenData-RogueDataRed.png"></a>
     <p>
         <a href="https://github.com/DCgov/opendatadc-requests/issues/new?template=innomaytion.md&title=Rogue%20Data%20%27Bounty%27%20Submission">
             Rogue Data 'Bounty' Submissions
