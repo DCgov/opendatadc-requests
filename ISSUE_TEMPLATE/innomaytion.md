@@ -2,11 +2,12 @@ Thank you for submitting a dataset for the Rogue Data "Bounty" at the innoMAYtio
 
 Please fill out the following information:
 
+Your name/Names of team members or github username(s) (optional):
 Name of dataset:
 Dataset url:
-Data format (csv, excel, spatial, etc.):
+Data format (chart, database, geographic information, list, image, other, spreadsheet, text, unknown):
 Agency:
 Page Owner (if available):
-Your name/Names of team members (optional):
+
 
 Thank you again for your submission!
