@@ -79,11 +79,8 @@ By the way...
 ----------
 
 <p>DC realizes that data’s greatest value comes from having it freely shared to the extent possible when considering
-    safety, privacy and security. We think we do a pretty good job of capturing information about DC’s complex urban,
-    real-world attribution in <a href="http://opendata.dc.gov/">Open Data DC</a>. We have hundreds of datasets and web
-    services already available; however, we know it's not all here. Our teams across DC government agencies are working
-    together to add new data sets, keep data current and troubleshoot any problems. All with the intent to improve your
-    experience. We invite you to share your experiences here with questions or requests.</p>
+    safety, privacy and security. We have hundreds of datasets and web services already available. Our teams across DC government agencies are working together to add new data sets, keep data current and troubleshoot any problems. All with the intent to improve your
+    experience. We invite you to share your experiences here.</p>
 <p>The District works on an <i>“open by default”</i> data policy. What does this mean? Learn more about this <a
         href="https://octo.dc.gov/node/1239971">Data Policy</a> and browse the <a
         href="http://opendata.dc.gov/pages/cdo-annual-report">Chief Data Officer’s Annual Report</a>. You might find
